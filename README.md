@@ -1,3 +1,4 @@
 # My-travel-guide
-This is a tkinter travel guide
-Run Welcome.py along with all other python files and images in the same folder.
+This is my first python project in college.
+It is a travel guide made using tkinter gui.
+First download all the files into one folder and then run welcome.py
